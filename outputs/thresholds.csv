@@ -1,0 +1,11 @@
+meter_id,thr_kw,n_quiet_pos,quiet_day_ratio,status,status_reason
+meter_1,2.35644,1725,0.3847738380413256,estimated,ok
+meter_2,1.536044,9821,0.996829787946055,declined,no_distinct_quiet_regime
+meter_3,12.9332,13437,0.5115138700569548,declined,no_distinct_quiet_regime
+meter_4,4.947782,2567,0.8299817894850866,declined,no_distinct_quiet_regime
+meter_5,4.56,12572,0.17744694606668587,estimated,ok
+meter_6,145.92,11156,0.3617547111523015,estimated,ok
+meter_7,0.574232,11058,0.03606386995359182,estimated,ok
+meter_8,49.2,13756,0.2886334610472541,estimated,ok
+meter_9,1.035,4975,0.5830900505119361,declined,no_distinct_quiet_regime
+meter_10,0.590296,13192,0.9920331337220037,declined,no_distinct_quiet_regime
